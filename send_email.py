@@ -7,8 +7,6 @@ def send_email(receiver, raw_message):
     username = "****@gmail.com"
     password = "fuld itha npbv tich"
 
-    # receiver = "diosama99@gmail.com"
-
     message = f"""\
 Subject: New email from {receiver}
 
